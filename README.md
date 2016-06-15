@@ -1,6 +1,13 @@
 # CS229-python-kit
 A kit of starter code for CS229 Machine Learning course problem sets
 
+## 🚨DISCLAIMER
+
+1. All the intellectual property belongs to Stanford University and the faculty members who developed the course. The kit is purely for academic purpose.
+2. I was careful not to include any content that would constitute academic dishonesty. My code is either a direct translation of the provided MATLAB starter code or just for reading in file or helping in debugging.
+   But should any problem arises please feel free to contact me.
+3. I make NO guarantee that this kit doesn't contain ANY error that would affect the result. If you encounter any error that is indeed due to the implementation feel free to tell me in the Issue section.
+
 ## HW1
 
 ### Logistic Regression problem
